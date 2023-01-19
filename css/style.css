@@ -8,7 +8,7 @@
   flex-wrap: nowrap;
   justify-content: space-between;
   border-radius: 10px/20px;
-  box-shadow: rgba(0, 0, 0, 0.6) 0px 0px 2.8px 0px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 0px 0px;
 }
 
 .header1 img {
