@@ -27,6 +27,12 @@
     font-weight: bold;
   }
 }
+.header1 {
+  li:hover {
+    color: orangered;
+    text-decoration: underline;
+  }
+}
 
 .header1 {
   ul:nth-child(2) {
@@ -62,6 +68,15 @@ body {
   }
 }
 
+body {
+  ul {
+    .buynow:hover {
+      background-color: orangered;
+      color: white;
+    }
+  }
+}
+
 main {
   div {
     display: flex;
@@ -74,8 +89,8 @@ main {
   div {
     img {
       object-fit: cover;
-      width: 25rem;
-      height: 30rem;
+      width: 380px;
+      height: 520px;
       padding-left: 0;
       border-radius: 18%;
       gap: 0px;
